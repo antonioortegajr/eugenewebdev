@@ -9,7 +9,7 @@ Eugene Web Dev Notes
     * Links to other Eugene Tech Meetups
     * Sponsors
 * Sponsors
-    * Bishop's new job (Sponsors Liason)
+    * Bishop's new job (Sponsors Liason) <-- I AM THE SHWAG MASTA!!!!!!!
     * Get more sponsors
         * Github, facebook(React), Node, PHP, Microsoft(.NET), Google, AWS, Rackspace, Twillio,
         twitter Reddit, Hacker News, New Relic, Lunar Logic, Palo Alto, Concentric Sky,
